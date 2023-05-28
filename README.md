@@ -7,3 +7,5 @@ multilable_classification_m1.ipynb - нотбук с построением и �
 multilable_classification_m3.ipynb - нотбук с построением и обучением модели для классификации дефекта М3
 models_usage.ipynb - нотбук с применением моделей
 MultitargetTimeForecaster.ipynb - модель предсказания по времени
+
+(Ссылка на данные и задания)[https://drive.google.com/drive/folders/15rrOM5j2dVBs8aC6lSsHfufDKpNija7w?usp=sharing]
